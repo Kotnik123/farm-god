@@ -1,0 +1,114 @@
+body {
+    background-color: #e5e3fa;
+}
+
+#artFirst {
+    background-color: pink;
+    max-width: 760px;
+    margin: 0 auto;
+    border-radius: 0 0 20px 20px;
+}
+
+
+
+p#congrats{
+    font-family: "Calistoga", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    background-color: inherit;
+}
+
+img {
+    height: 60%;
+    width: 60%;
+    align: center;
+}
+
+td {
+    height:200px;
+    width:200px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#td2 {
+    height:360px;
+    width:360px;
+}
+
+#artSecond {
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    max-width: 560px;
+}
+
+h1 {
+    text-align:center;
+    font-family: "Calistoga", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #160e6e;
+    text-align: center;
+    border-bottom: 2px solid grey;
+    margin: 0 0 20px 0;
+}
+
+h2 {
+    text-align: left;
+    font-family: "Calistoga", serif;
+    font-size: 120%
+}
+
+video {
+    margin: 20px 0;
+    width: 560px;
+    height: 315px;
+}
+
+iframe {
+    margin: 20px 0;
+    width: 560px;
+    height: 315px;
+}
+
+p {
+    margin: 0 50px;
+    padding: 0px;
+    background: rgba(69, 189, 102, 0.7)
+
+}
+
+footer {
+    background: grey;
+    height:80px;
+    margin-top: 40px;
+}
+
+p#pFooter {
+    background: inherit;
+    font-family: "Calistoga", serif;
+    padding-top:30px;
+    margin-left:30px;
+    width: 400px;
+    float: left;
+}
+
+img#Cherchil {
+    height:80px;
+    width:80px;
+    margin:0px;
+    padding:0px;
+}
+
+div#CherchilDiv {
+    vertical-align: right;
+    text-align: right;
+    width: 80px;
+    height:80px;
+    float: left;
+}
