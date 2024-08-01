@@ -85,8 +85,9 @@ p {
 
 footer {
     background: grey;
-    height:80px;
-    margin-top: 40px;
+    height:76px;
+    margin-top: 40px
+
 }
 
 p#pFooter {
@@ -98,17 +99,19 @@ p#pFooter {
     float: left;
 }
 
-img#Cherchil {
-    height:80px;
+img.Cherchil {
+    height:76px;
     width:80px;
     margin:0px;
     padding:0px;
-}
-
-div#CherchilDiv {
-    vertical-align: right;
-    text-align: right;
-    width: 80px;
-    height:80px;
     float: left;
 }
+
+div.CherchilDiv {
+    vertical-align: right;
+    text-align: right;
+    height:76px;
+    width: 80px;
+    float: left;
+}
+
